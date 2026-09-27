@@ -1,0 +1,6 @@
+{
+  "name": "Hair dot com - Luxury Salon in Durgapur",
+  "description": "Experience premium hair and beauty styling at Hair dot com, City Center, Durgapur. Precision haircuts, luxury hair spas, modern coloring, and bespoke beauty treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
